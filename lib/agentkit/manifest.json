@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "product": "pipmcp",
+  "credential": "PIPMCP_API_KEY",
+  "skills": [
+    {
+      "name": "pipmcp-google-tasks",
+      "description": "Connect AI agents to Google Tasks using one PipMCP API key and actual hosted tool discovery."
+    }
+  ],
+  "files": {
+    "skills/pipmcp-google-tasks/SKILL.md": "9db942952c82125b65124932a9af0a902109afe8b3c3394e3d8a58aa428e9712"
+  }
+}
